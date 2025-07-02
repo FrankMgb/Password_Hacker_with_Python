@@ -47,12 +47,3 @@ This project demonstrates:
 - Proper error handling in network applications
 - Working with JSON for data exchange
 
-
-This tool is created for educational purposes only. Using this program against systems without explicit permission is illegal and unethical. Always practice responsible security testing and only use these techniques on systems you own or have permission to test.
-
-
-This project was completed as part of the JetBrains Academy Python track.
-Project link: https://hyperskill.org/projects/80
-
-
-[MIT License](LICENSE)
